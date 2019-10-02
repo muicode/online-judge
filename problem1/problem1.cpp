@@ -40,19 +40,6 @@ void bruteforce(const int * const arr, const int k)
     printf("none exists\n");
 }
 
-int isInclude(const int * const arr, const int n)
-{
-    for (size_t i=0; arr[i] != '\0'; ++i)
-    {
-        if (arr[i] == n) 
-        {
-            return i;
-        }
-    }
-
-    return 0;
-}
-
 void onepass(const int * const arr, const int k)
 {
     map<int, int> mymap;
