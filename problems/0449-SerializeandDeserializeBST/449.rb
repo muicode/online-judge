@@ -13,9 +13,6 @@ Memory Usage: 12.3 MB, less than 100.00% of Ruby online submissions for Serializ
 # end
 
 # Encodes a tree to a single string.
-#
-# @param {TreeNode} root
-# @return {string}
 def serialize(root)
     if root == nil
         return 'x'
@@ -28,9 +25,6 @@ def serialize(root)
 end
 
 # Decodes your encoded data to tree.
-#
-# @param {string} data
-# @return {TreeNode}
 def deserialize(data)
     tokens = data.split(' ')
     deserialize_helper tokens
@@ -44,11 +38,8 @@ def deserialize_helper(data)
     end
     
     root = TreeNode.new(current)
-    root.left = deserialize(data)
-    root.right = deserialize(data)
+    root.left = deserialize_helper(data)
+    root.right = deserialize_helper(data)
     
     return root
 end
-
-# Your functions will be called as such:
-# deserialize(serialize(data))
