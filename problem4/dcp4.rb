@@ -31,11 +31,10 @@ end
 # Constant Space
 def dcp4_2(input)
     target = 1
-    input.delete_if { |x| x <= 0 }
     input.sort!                       # in-place sorting?
 
     input.each do |x|                 # linear
-        next if x == target - 1
+        next if x <= 0 or x == target - 1
         break if x != target
 
         if x == target
