@@ -45,14 +45,28 @@ def dcp4_2(input)
     target
 end
 
-puts dcp4([3, 4, -1, 1])
-puts dcp4([1, 2, 0])
-puts dcp4([1, 1, 1, 1, 2, 5])
-puts dcp4([*(-100)..10, 11])
-puts dcp4([*(-100)..10, 12])
-puts
-puts dcp4_2([3, 4, -1, 1])
-puts dcp4_2([1, 2, 0])
-puts dcp4_2([1, 1, 1, 1, 2, 5])
-puts dcp4_2([*(-100)..10, 11])
-puts dcp4_2([*(-100)..10, 12])
+# Linear time
+# Hash is O(n)
+def dcp4_3(input)
+    hash = Hash.new()
+
+    input.each do |x|
+        hash[x] = 0 if x > 0
+    end
+
+    (1 .. input.size).each do |x|
+        return x if hash[x] == nil
+    end
+end
+
+require 'minitest/autorun'
+
+class Tests < Minitest::Test
+    def test_example_one
+        assert_equal 2, dcp4_3([3, 4, -1, 1])
+        assert_equal 3, dcp4_3([1, 2, 0])
+        assert_equal 3, dcp4_3([1, 1, 1, 2, 5])
+        assert_equal 12, dcp4_3([*(-100)..10, 11])
+        assert_equal 2, dcp4_3([1, 1000000])
+    end
+end
