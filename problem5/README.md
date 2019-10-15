@@ -1,4 +1,4 @@
-# DCP #5 - 190922
+# Daily Coding Problem 5
 
 ```
 This problem was asked by Jane Street.
