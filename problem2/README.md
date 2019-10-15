@@ -8,4 +8,4 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can’t use division?
 
-[Explanation](http://localhost:4000/dcp/2019/09/19/en-dcp-2.html)
+[Explanation](https://muicode.github.io/dcp/2019/09/19/en-dcp-2.html)
