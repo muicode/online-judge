@@ -11,3 +11,5 @@
  The input [1, 2, 0] should give 3.
 
  You can modify the input array in-place.
+
+[Explanation](https://muicode.github.io/dcp/2019/09/21/en-dcp-4.html)
