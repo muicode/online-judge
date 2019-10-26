@@ -1,0 +1,48 @@
+class Node
+    attr_reader :val
+    attr_accessor :both
+
+    def initialize data
+        @val = data
+        @both = 0
+    end
+end
+
+class XORLinkedList
+    attr_reader :root, :nodes
+
+    def initialize data
+        @root = Node.new(data)
+        @nodes = 1
+    end
+
+    def add element
+        new_node = Node.new(element)
+
+        new_node_addr = get_pointer(new_node)
+
+        temp_curr = @root
+        temp_prev = @root
+
+        if temp_curr.both == 0
+            temp_curr.both = 0 ^ new_node_addr
+        elsif temp_curr.both ^ 0 != temp_curr.both
+            # current XOR 0 != current => I'm NOT at the last node?
+           temp_curr = temp_curr ^ get_pointer(temp_prev)
+        end
+
+        temp_curr = get_pointer(temp_curr) ^ new_node_addr
+
+        @nodes += 1
+    end
+
+    def get_pointer(node)
+        node.object_id
+    end
+
+    def deref_pointer(node_addr)
+        ObjectSpace._id2ref(node_addr.object_id)
+    end
+end
+
+list = XORLinkedList.new("root")
