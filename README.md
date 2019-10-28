@@ -9,5 +9,5 @@ My solutions to daily coding problems.
 | #3 | Google | Serialization & Deserialization | [Ruby](https://github.com/muicode/DCP/blob/master/problem3/dcp3.rb) | [Yes](https://muicode.github.io/dcp/2019/09/20/en-dcp-3.html) |
 | #4 | Stripe | Lowest Positive Number | [Ruby](https://github.com/muicode/DCP/blob/master/problem4/dcp4.rb) | [Yes](https://muicode.github.io/dcp/2019/09/21/en-dcp-4.html) |
 | #5 | Jane Street | CAR and CDR | [Python](https://github.com/muicode/DCP/blob/master/problem5/dcp5.py) | [Yes](https://muicode.github.io/dcp/2019/10/20/en-dcp-5.html) |
-| #6 | Google | XOR Linked List | [Ruby](https://github.com/muicode/DCP/blob/master/problem6/dcp6.rb), [C](https://github.com/muicode/DCP/blob/master/problem6/dcp6.c) | [Yes](https://muicode.github.io/dcp/2019/10/25/en-dcp-6.html) |
+| #6 | Google | XOR Linked List | [Ruby](https://github.com/muicode/DCP/blob/master/problem6/dcp6.rb), [C](https://github.com/muicode/DCP/blob/master/problem6/dcp6.c) | No |
 | #7 | Facebook | Counting Decoded Messages | [Ruby](https://github.com/muicode/DCP/blob/master/problem7/dcp7.rb), [C](https://github.com/muicode/DCP/blob/master/problem7/dcp7.c) | No |
