@@ -1,6 +1,6 @@
 ## [Leetcode](https://leetcode.com/)
 
-[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (`Array` `Two Pointers`)
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
