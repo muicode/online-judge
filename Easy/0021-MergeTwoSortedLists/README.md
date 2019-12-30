@@ -1,6 +1,6 @@
 ## [Leetcode](https://leetcode.com/)
 
-[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (`Linked Lists`)
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (`Linked List`)
 
 - Time Complexity: O(m + n), m + n = number of elements in list 1 and list 2
 - Space Complexity: O(1)
