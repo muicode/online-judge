@@ -1,6 +1,6 @@
 ## [Leetcode](https://leetcode.com/)
 
-[7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer) (`Math`)
 
 - Time Complexity: O(log(x) - 1) = O(log(x))
 - Space Complexity: O(1)
