@@ -1,6 +1,6 @@
 ## [Leetcode](https://leetcode.com/)
 
-[27. Remove Element](https://leetcode.com/problems/remove-element/)
+[27. Remove Element](https://leetcode.com/problems/remove-element/) (`Array` `Two Pointers`)
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
