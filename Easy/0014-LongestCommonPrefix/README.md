@@ -1,6 +1,6 @@
 ## [Leetcode](https://leetcode.com/)
 
-[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (`String`)
 
 ### Horizontal Scanning
 - Time Complexity: O(S)
