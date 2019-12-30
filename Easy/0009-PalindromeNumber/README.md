@@ -1,6 +1,6 @@
 ## [Leetcode](https://leetcode.com/)
 
-[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) (`Math`)
 
 ### Converting Integer to String
 - Time Complexity: O(n) + O(toString())
