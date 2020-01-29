@@ -1,4 +1,5 @@
 # [LeetCode](https://leetcode.com/) 
+[![Language](https://img.shields.io/badge/language-Java-red.svg)](#)
 
 My solutions to LeetCode problems.
 
