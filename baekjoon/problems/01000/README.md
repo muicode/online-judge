@@ -1,4 +1,4 @@
-[1000번 A+B](https://www.acmicpc.net/problem/1000)
+## [1000번 A+B](https://www.acmicpc.net/problem/1000)
 
 ```c
 #include <stdio.h>
