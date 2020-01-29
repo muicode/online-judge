@@ -1,7 +1,5 @@
-## 문제
-- [1000번 A+B](https://www.acmicpc.net/problem/1000)
+[1000번 A+B](https://www.acmicpc.net/problem/1000)
 
-## Solution
 ```c
 #include <stdio.h>
 
@@ -14,11 +12,8 @@ int main(void)
 }
 ```
 
-## Time Complexity
-- 시간 복잡도: <b>O(1)</b>.
-
-## Space Complexity
-- 공간 복잡도: <b>O(1)</b>.
+- 시간 복잡도: O(1)
+- 공간 복잡도: O(1)
 
 ## Tags
 - [사칙연산](https://www.acmicpc.net/problem/tag/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
