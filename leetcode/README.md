@@ -22,7 +22,7 @@ My solutions to LeetCode problems.
 [Remove Duplicates from Sorted Array](./Easy/0026-remove-duplicates-from-sorted-array) :coffee: 
 [Remove Element](./Easy/0027-remove-element) :coffee: 
 [Search Insert Position](./Easy/0035-search-insert-position/) :coffee:
-[Maximum Subarray](./Easy/0053-maximum-subarray/) :coffee:::
+[Maximum Subarray](./Easy/0053-maximum-subarray/) :coffee:
 [Plus One](./Easy/0066-plus-one/) :coffee:
 
 ### <a id="binarysearch">Binary Search</a>
