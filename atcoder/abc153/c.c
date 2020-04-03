@@ -22,24 +22,23 @@ int main(n, k)
     if(k>=n) 
     {
         printf("0\n");
+        return 1;
     }
-    else 
-    {
-        for(int i=0; i<n; ++i)
-        { 
-            scanf("%d", &h[i]);
-        } 
 
-        qsort(h, n, sizeof(int), comparator);
+    for(int i=0; i<n; ++i)
+    { 
+        scanf("%d", &h[i]);
+    } 
 
-        unsigned long x=0;
-        for(int i=n-k-1; i>=0; --i)
-        { 
-            x += h[i];
-        } 
+    qsort(h, n, sizeof(int), comparator);
 
-        printf("%lu\n", x);
-    }
+    unsigned long x=0;
+    for(int i=n-k-1; i>=0; --i)
+    { 
+        x += h[i];
+    } 
+
+    printf("%lu\n", x);
 
     return 0;
 }
