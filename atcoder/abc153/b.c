@@ -9,16 +9,16 @@
 
 int main(h, n, t, s)
 {
-//    int h, n;
-//    int s=0;
     s=0;
     scanf("%d%d", &h, &n);
     while(n--)
     {
- //       int t;
         scanf("%d", &t);
         s+=t;
-        if(s>=h) break;
+        if(s>=h) 
+        {
+            break;
+        }
     }
 
     printf("%s\n", (s>=h)?"Yes":"No");
