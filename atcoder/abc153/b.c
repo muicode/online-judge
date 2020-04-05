@@ -7,21 +7,16 @@
 
 #include <stdio.h>
 
-int main(h, n, t, s)
+int main(h, n, t)
 {
-    s=0;
     scanf("%d%d", &h, &n);
-    while(n--)
+    while(n-- && h>=0)
     {
         scanf("%d", &t);
-        s+=t;
-        if(s>=h) 
-        {
-            break;
-        }
+        h-=t;
     }
 
-    printf("%s\n", (s>=h)?"Yes":"No");
+    printf("%s\n", (h<=0)?"Yes":"No");
 
     return 0;
 }
