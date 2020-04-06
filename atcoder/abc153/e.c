@@ -29,6 +29,7 @@ int main(H, N)
         rep(n, 0, N)
             dp[h] = min(dp[h], B[n] + dp[max(h-A[n], 0)]);
 
+
     printf("%d\n", dp[H]);
     return 0;
 }
