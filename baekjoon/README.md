@@ -3,15 +3,27 @@
 - [1000 - A + B](https://www.acmicpc.net/problem/1000) | Bronze V
 - [1001 - A - B](https://www.acmicpc.net/problem/1001) | Bronze V
 - [1008 - A / B](https://www.acmicpc.net/problem/1008) | Bronze IV
+- [1330 - 두 수 비교하기](https://www.acmicpc.net/problem/1330) | Bronze IV
+- [2438 - 별 찍기 - 1](https://www.acmicpc.net/problem/2438) | Bronze III
+- [2439 - 별 찍기 - 2](https://www.acmicpc.net/problem/2439) | Bronze III
 - [2557 - Hello World](https://www.acmicpc.net/problem/2557) | Bronze V
 - [2588 - 곱셈](https://www.acmicpc.net/problem/2588) | Bronze IV
+- [2739 - 구구단](https://www.acmicpc.net/problem/2739) | Bronze III
+- [2741 - N 찍기](https://www.acmicpc.net/problem/2741) | Bronze III
+- [2742 - 기찍 N](https://www.acmicpc.net/problem/2742) | Bronze III
 - [2753 - 윤년](https://www.acmicpc.net/problem/2753) | Bronze IV
 - [2884 - SPAVANAC](https://www.acmicpc.net/problem/2884) | Bronze III
+- [8393 - Sum](https://www.acmicpc.net/problem/8393) | Bronze V
 - [9498 - 시험 성적](https://www.acmicpc.net/problem/9498) | Bronze IV
 - [10171 - Cats](https://www.acmicpc.net/problem/10171) | Bronze V
 - [10172 - Dogs](https://www.acmicpc.net/problem/10172) | Bronze V
 - [10430 - 나머지](https://www.acmicpc.net/problem/10430) | Bronze V
 - [10718 - We lovk Kriii](https://www.acmicpc.net/problem/10718) | Bronze V
 - [10869 - 사칙연산](https://www.acmicpc.net/problem/10869) | Bronze V
+- [10871 - X보다 작은 수](https://www.acmicpc.net/problem/10871) | Bronze III
+- [10950 - A + B - 3](https://www.acmicpc.net/problem/10950) | Bronze III
 - [10998 - A * B](https://www.acmicpc.net/problem/10998) | Bronze V
+- [11021 - A + B - 7](https://www.acmicpc.net/problem/11021) | Bronze III
+- [11022 - A + B - 8](https://www.acmicpc.net/problem/11022) | Bronze III
 - [14681 - Quadrant Selection](https://www.acmicpc.net/problem/14681) | Bronze IV
+- [15552 - 빠른 A + B](https://www.acmicpc.net/problem/15552) | Bronze II
