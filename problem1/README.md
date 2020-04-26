@@ -10,4 +10,4 @@ return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Explanation](https://muicode.github.io/dcp/2019/09/18/en-dcp-1.html)
+[Explanation](https://www.jioneeu.com/en-dcp-1)

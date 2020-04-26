@@ -1,45 +1,18 @@
-require 'benchmark'
+def onepass(nums, k)
+  hash = Hash.new(0)
 
-def bruteforce(arr, k)
-    n = arr.size
-
-    for i in (0 ... n - 1)
-        for j in (i + 1 ... n)
-            if arr[i] + arr[j] == k
-                puts "found: #{arr[i]} + #{arr[j]} = #{k}"
-                return
-            end
-        end
+  nums.each do |x|
+    if hash.has_key? (k-x)
+      return true
+    else
+      hash[x] = k-x
     end
+  end
 
-    puts "none exists"
+  return false
 end
 
-def one_pass(arr, k)
-    m = Hash.new(0)
+nums = gets.split().map(&:to_i)
+k = gets.to_i
 
-    arr.each do |n|
-        if m.has_key? (k - n)
-            puts "found: #{k - n} + #{n} = #{k}"
-            return
-        else
-            m[n] = (k - n)
-        end
-    end
-    puts "none exists"
-end
-
-size = 99999
-arr = [*1 ... size].shuffle
-k = rand(size)
-puts "k = #{k}"
-time = Benchmark.realtime {
-    bruteforce(arr, k)
-}
-puts "#{time} seconds"
-puts
-time = Benchmark.realtime {
-    one_pass(arr, k)
-}
-puts "#{time} seconds"
-puts
+puts onepass(nums, k)
