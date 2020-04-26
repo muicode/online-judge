@@ -5,5 +5,5 @@
 My solutions to daily coding problems.
 
 |Problem|From|Title|Solution|Explanation|
-|:-:|---|---|---|:-:|
-| [#1](./problem1) | Google | a + b = k? | [Ruby](./problem1/dcp1.rb) |
+|:-:|---|---|:-:|:-:|
+| [#1](./problem1) | Google | a + b = k? | [Ruby](./problem1/dcp1.rb) | [Read](https://www.jioneeu.com/en-dcp-1) |
