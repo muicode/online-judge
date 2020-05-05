@@ -4,8 +4,8 @@
 My solutions to LeetCode problems.
 
 ## Categories
-| Problem | Difficulties | Related Topics | Explanation |
-|:-------:|:------------:|:--------------:|:-----------:|
-| [Two Sum][1] | Easy    | Array, hash Table | |
+| Problem | Difficulties | Related Topics | Code | Explanation |
+|:-------:|:------------:|:--------------:|:----:|:-----------:|
+| [Two Sum][1] | Easy    | Array, hash Table | [Ruby](./easy/two_sum.rb) | |
 
 [1]: https://leetcode.com/problems/two-sum/
