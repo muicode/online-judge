@@ -6,15 +6,15 @@ My solutions to LeetCode problems.
 ## Categories
 | Problem | Difficulties | Related Topics | Code | Blog |
 |:-------:|:------------:|:--------------:|:----:|:-----------:|
-| [Two Sum][1] | Easy    | Array, hash Table | [Ruby](./easy/two_sum.rb) | [:pencil2:](https://www.jioneeu.com/en-leetcode-1-two-sum) |
-| [Reverse Integer][7] | Easy    | Implement | [Ruby](./easy/reverse_integer.rb) | [:pencil2:](https://www.jioneeu.com/en-leetcode-7-reverse-integer) |
-| [Palindrome Number][9] | Easy    | Implement | [Ruby](./easy/palindrome_number.rb) | [:pencil2:](https://www.jioneeu.com/en-leetcode-9-palindrome-number) |
-| [Roman to Integer][13] | Easy    | Math, String | [Ruby](./easy/roman-to-integer.rb) |[:pencil2:](https://www.jioneeu.com/en-leetcode-13-roman-to-integer) |
-| [Longest Common Prefix][14] | Easy    | String | [Ruby](./easy/longest-common-prefix.rb) | |
-| [Valid Parentheses][20] | Easy    | Stack, String | [Ruby](./easy/valid-parentheses.rb) | |
-| [Merge Two Sorted Lists][21] | Easy    | Linked List | [Ruby](./easy/merge-two-sorted-lists.rb) | |
-| [Remove Duplicates from Sorted Array][26] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-duplicates-from-sorted-array.rb) | |
-| [Remove Element][27] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-element.rb) | |
+| [Two Sum][1] | Easy    | Array, hash Table | [Ruby](./easy/two_sum.rb) | [:pencil2:][1-blog]
+| [Reverse Integer][7] | Easy    | Implement | [Ruby](./easy/reverse_integer.rb) | [:pencil2:][7-blog]
+| [Palindrome Number][9] | Easy    | Implement | [Ruby](./easy/palindrome_number.rb) | [:pencil2:][9-blog]
+| [Roman to Integer][13] | Easy    | Math, String | [Ruby](./easy/roman-to-integer.rb) |[:pencil2:][13-blog]
+| [Longest Common Prefix][14] | Easy    | String | [Ruby](./easy/longest-common-prefix.rb) |[:pencil2:][14-blog]|
+| [Valid Parentheses][20] | Easy    | Stack, String | [Ruby](./easy/valid-parentheses.rb) |[:pencil2:][20-blog]|
+| [Merge Two Sorted Lists][21] | Easy    | Linked List | [Ruby](./easy/merge-two-sorted-lists.rb) |[:pencil2:][21-blog] |
+| [Remove Duplicates from Sorted Array][26] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-duplicates-from-sorted-array.rb) |[:pencil2:][26-blog]|
+| [Remove Element][27] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-element.rb) |[:pencil2:][27-blog]|
 
 [1]: https://leetcode.com/problems/two-sum/
 [7]: https://leetcode.com/problems/reverse-integer/
@@ -25,3 +25,12 @@ My solutions to LeetCode problems.
 [21]: https://leetcode.com/problems/merge-two-sorted-list/
 [26]: https://leetcode.com/problems/remove-duplicates-from-two-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
+
+[1-blog]: https://www.jioneeu.com/en-leetcode-1-two-sum
+[7-blog]: https://www.jioneeu.com/en-leetcode-7-reverse-integer
+[9-blog]: https://www.jioneeu.com/en-leetcode-9-palindrome-number
+[13-blog]: https://www.jioneeu.com/en-leetcode-13-roman-to-integer
+[14-blog]: https://www.jioneeu.com/en-leetcode-14-longest-common-prefix
+[20-blog]: https://www.jioneeu.com/en-leetcode-20-valid-parentheses
+[21-blog]: https://www.jioneeu.com/en-leetcode-21-merge-two-sorted-lists
+[26-blog]: https://www.jioneeu.com/en-leetcode-26-remove-duplicates-from-sorted-array
