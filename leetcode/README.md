@@ -34,3 +34,4 @@ My solutions to LeetCode problems.
 [20-blog]: https://www.jioneeu.com/en-leetcode-20-valid-parentheses
 [21-blog]: https://www.jioneeu.com/en-leetcode-21-merge-two-sorted-lists
 [26-blog]: https://www.jioneeu.com/en-leetcode-26-remove-duplicates-from-sorted-array
+[27-blog]: https://www.jioneeu.com/ja-leetcode-27-remove-element
