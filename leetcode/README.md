@@ -15,6 +15,7 @@ My solutions to LeetCode problems.
 | [Merge Two Sorted Lists][21] | Easy    | Linked List | [Ruby](./easy/merge-two-sorted-lists.rb) |[:pencil2:][21-blog] |
 | [Remove Duplicates from Sorted Array][26] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-duplicates-from-sorted-array.rb) |[:pencil2:][26-blog]|
 | [Remove Element][27] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-element.rb) |[:pencil2:][27-blog]|
+| [Implement strstr()][28] | Easy    | String, Two Pointers | [Ruby](./easy/implement-strstr.rb) ||
 
 [1]: https://leetcode.com/problems/two-sum/
 [7]: https://leetcode.com/problems/reverse-integer/
@@ -25,6 +26,7 @@ My solutions to LeetCode problems.
 [21]: https://leetcode.com/problems/merge-two-sorted-list/
 [26]: https://leetcode.com/problems/remove-duplicates-from-two-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
+[28]: https://leetcode.com/problems/implement-strstr/
 
 [1-blog]: https://www.jioneeu.com/en-leetcode-1-two-sum
 [7-blog]: https://www.jioneeu.com/en-leetcode-7-reverse-integer
