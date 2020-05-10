@@ -16,6 +16,7 @@ My solutions to LeetCode problems.
 | [Remove Duplicates from Sorted Array][26] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-duplicates-from-sorted-array.rb) |[:pencil2:][26-blog]|
 | [Remove Element][27] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-element.rb) |[:pencil2:][27-blog]|
 | [Implement strstr()][28] | Easy    | String, Two Pointers | [Ruby](./easy/implement-strstr.rb) ||
+| [Remove Duplicates from Sorted List][83] | Easy    | Linked List | [Ruby](./easy/remove-duplicates-from-sorted-list.rb) ||
 | [Reverse Linked List][206] | Easy    | Linked List | [Ruby](./easy/reverse-linked-list.rb) ||
 | [Delete Node in a Linked List][237] | Easy    | Linked List | [Ruby](./easy/delete-node-in-a-linked-list.rb) ||
 | [Middle of the Linked List][876] | Easy    | Linked List | [Ruby](./easy/middle-of-the-linked-list.rb) ||
@@ -31,6 +32,7 @@ My solutions to LeetCode problems.
 [26]: https://leetcode.com/problems/remove-duplicates-from-two-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
 [28]: https://leetcode.com/problems/implement-strstr/
+[83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
