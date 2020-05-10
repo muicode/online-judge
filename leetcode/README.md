@@ -16,6 +16,7 @@ My solutions to LeetCode problems.
 | [Remove Duplicates from Sorted Array][26] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-duplicates-from-sorted-array.rb) |[:pencil2:][26-blog]|
 | [Remove Element][27] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-element.rb) |[:pencil2:][27-blog]|
 | [Implement strstr()][28] | Easy    | String, Two Pointers | [Ruby](./easy/implement-strstr.rb) ||
+| [Convert Binary Number in a Linked List to Integer][1290] | Easy    | Bit Manipulation, Linked List | [Ruby](./easy/convert-binary-number-in-a-linked-list-to-integer.rb) ||
 
 [1]: https://leetcode.com/problems/two-sum/
 [7]: https://leetcode.com/problems/reverse-integer/
@@ -27,6 +28,7 @@ My solutions to LeetCode problems.
 [26]: https://leetcode.com/problems/remove-duplicates-from-two-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
 [28]: https://leetcode.com/problems/implement-strstr/
+[1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 
 [1-blog]: https://www.jioneeu.com/en-leetcode-1-two-sum
 [7-blog]: https://www.jioneeu.com/en-leetcode-7-reverse-integer
