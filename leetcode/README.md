@@ -23,6 +23,7 @@ My solutions to LeetCode problems.
 | [Reverse Linked List][206] | Easy    | Linked List | [Ruby](./easy/reverse-linked-list.rb) ||
 | [Delete Node in a Linked List][237] | Easy    | Linked List | [Ruby](./easy/delete-node-in-a-linked-list.rb) ||
 | [Middle of the Linked List][876] | Easy    | Linked List | [Ruby](./easy/middle-of-the-linked-list.rb) ||
+| [Range Sum of BST][938] | Easy    | Tree, Recursion | [Ruby](./easy/range-sum-of-bst.rb) ||
 | [Convert Binary Number in a Linked List to Integer][1290] | Easy    | Bit Manipulation, Linked List | [Ruby](./easy/convert-binary-number-in-a-linked-list-to-integer.rb) ||
 
 [1]: https://leetcode.com/problems/two-sum/
@@ -42,6 +43,7 @@ My solutions to LeetCode problems.
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
+[938]: https://leetcode.com/problems/range-sum-of-bst/
 [1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 
 [1-blog]: https://www.jioneeu.com/en-leetcode-1-two-sum
