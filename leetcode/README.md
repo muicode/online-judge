@@ -17,6 +17,7 @@ My solutions to LeetCode problems.
 | [Remove Element][27] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-element.rb) |[:pencil2:][27-blog]|
 | [Implement strstr()][28] | Easy    | String, Two Pointers | [Ruby](./easy/implement-strstr.rb) ||
 | [Remove Duplicates from Sorted List][83] | Easy    | Linked List | [Ruby](./easy/remove-duplicates-from-sorted-list.rb) ||
+| [Maximum Depth fo Binary Tree][104] | Easy    | DFS, Tree | [Ruby](./easy/maximum-depth-of-binary-tree.rb) ||
 | [Linked List Cycle][141] | Easy    | Linked List, Two Pointers | [Ruby](./easy/linked-list-cycle.rb) ||
 | [Intersection of Two Linked Lists][160] | Easy    | Linked List | [Ruby](./easy/intersection-of-two-linked-lists.rb) ||
 | [Reverse Linked List][206] | Easy    | Linked List | [Ruby](./easy/reverse-linked-list.rb) ||
@@ -35,6 +36,7 @@ My solutions to LeetCode problems.
 [27]: https://leetcode.com/problems/remove-element/
 [28]: https://leetcode.com/problems/implement-strstr/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [141]: https://leetcode.com/problems/linked-list-cycle/
 [160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [206]: https://leetcode.com/problems/reverse-linked-list/
