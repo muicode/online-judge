@@ -1,3 +1,6 @@
+# good test case: (()([())])
+# answer should be 0
+
 $open = [0,0]
 $close = [0,0]
 
