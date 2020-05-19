@@ -10,6 +10,7 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [1001 - A - B](https://www.acmicpc.net/problem/1001) | 
 [1008 - A / B](https://www.acmicpc.net/problem/1008) | 
 [1110 - 더하기 사이클](https://www.acmicpc.net/problem/1110) |
+[1271 - 엄청난 부자2](https://www.acmicpc.net/problem/1271) |
 [1330 - 두 수 비교하기](https://www.acmicpc.net/problem/1330) | 
 [1546 - 평균](https://www.acmicpc.net/problem/1546) | 
 [2438 - 별 찍기 - 1](https://www.acmicpc.net/problem/2438) | 
