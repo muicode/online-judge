@@ -18,6 +18,7 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [2438 - 별 찍기 - 1](https://www.acmicpc.net/problem/2438) | 
 [2439 - 별 찍기 - 2](https://www.acmicpc.net/problem/2439) | 
 [2446 - 별 찍기 - 9](https://www.acmicpc.net/problem/2446) | 
+[2475 - 검증수](https://www.acmicpc.net/problem/2475) | 
 [2523 - 별 찍기 - 13](https://www.acmicpc.net/problem/2439) | 
 [2557 - Hello World](https://www.acmicpc.net/problem/2557) | 
 [2562 - 최댓값](https://www.acmicpc.net/problem/2562) | 
