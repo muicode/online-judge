@@ -58,5 +58,6 @@
 [1158 - 요세푸스 문제](https://www.acmicpc.net/problem/1158) |
 [2504 - 괄호의 값](https://www.acmicpc.net/problem/2504) |
 [9012 - Parenthesis](https://www.acmicpc.net/problem/9012) |
+[10773 - Zero That Out](https://www.acmicpc.net/problem/10773) |
 [10799 - 쇠막대기](https://www.acmicpc.net/problem/10799) |
 [10828 - Stack](https://www.acmicpc.net/problem/10828) |
