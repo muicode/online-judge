@@ -51,6 +51,7 @@
 [10998 - A * B](https://www.acmicpc.net/problem/10998) | 
 [11021 - A + B - 7](https://www.acmicpc.net/problem/11021) | 
 [11022 - A + B - 8](https://www.acmicpc.net/problem/11022) | 
+[12605 - Reverse Words (Small)](https://www.acmicpc.net/problem/12605) |
 [14681 - Quadrant Selection](https://www.acmicpc.net/problem/14681) | 
 [15552 - 빠른 A + B](https://www.acmicpc.net/problem/15552) | 
 
