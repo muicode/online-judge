@@ -2,12 +2,7 @@
 [![Ruby Badge](https://img.shields.io/badge/Ruby-2.7.0-red)](#)
 
 ## 문제 난이도
-- Bronze 5 -> 4 -> 3 -> 2 -> 1
-- Silver 5 -> 4 -> 3 -> 2 -> 1
-- Gold 5 -> 4 -> 3 -> 2 -> 1
-- Platinum 5 -> 4 -> 3 -> 2 -> 1
-- Diamond 5 -> 4 -> 3 -> 2 -> 1
-- Ruby 5 -> 4 -> 3 -> 2 -> 1
+Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 
 ## 푼 문제
 ### Bronze
@@ -54,6 +49,7 @@
 [12605 - Reverse Words (Small)](https://www.acmicpc.net/problem/12605) |
 [14681 - Quadrant Selection](https://www.acmicpc.net/problem/14681) | 
 [15552 - 빠른 A + B](https://www.acmicpc.net/problem/15552) | 
+[17608 - 막대기](https://www.acmicpc.net/problem/17608) |
 
 ### Silver
 [1158 - 요세푸스 문제](https://www.acmicpc.net/problem/1158) |
