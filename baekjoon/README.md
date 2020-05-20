@@ -21,6 +21,7 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [2475 - 검증수](https://www.acmicpc.net/problem/2475) | 
 [2523 - 별 찍기 - 13](https://www.acmicpc.net/problem/2439) | 
 [2557 - Hello World](https://www.acmicpc.net/problem/2557) | 
+[2558 - A + B 2](https://www.acmicpc.net/problem/2558) |
 [2562 - 최댓값](https://www.acmicpc.net/problem/2562) | 
 [2577 - 숫자의 개수](https://www.acmicpc.net/problem/2577) | 
 [2588 - 곱셈](https://www.acmicpc.net/problem/2588) | 
@@ -28,12 +29,23 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [2741 - N 찍기](https://www.acmicpc.net/problem/2741) | 
 [2742 - 기찍 N](https://www.acmicpc.net/problem/2742) | 
 [2753 - 윤년](https://www.acmicpc.net/problem/2753) | 
+[2845 - 파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | 
 [2884 - SPA5ANAC](https://www.acmicpc.net/problem/2884) | 
+[2914 - 저작권](https://www.acmicpc.net/problem/2914) | 
+[3003 - Chess](https://www.acmicpc.net/problem/3003) | 
+[3046 - R2](https://www.acmicpc.net/problem/3046) | 
 [3052 - Modulo](https://www.acmicpc.net/problem/3052) | 
 [4344 - Above Average](https://www.acmicpc.net/problem/4344) | 
+[5337 - Welcome](https://www.acmicpc.net/problem/5337) | 
+[5338 - Microsoft logo](https://www.acmicpc.net/problem/5338) | 
+[5339 - Call for help](https://www.acmicpc.net/problem/5339) | 
+[5522 - カードゲーム](https://www.acmicpc.net/problem/5522) | 
 [5543 - 상근날드](https://www.acmicpc.net/problem/5543) | 
+[5554 - 合計時間](https://www.acmicpc.net/problem/5554) | 
+[7287 - Registration](https://www.acmicpc.net/problem/7287) | 
 [8393 - Sum](https://www.acmicpc.net/problem/8393) | 
-[8958 - Sum](https://www.acmicpc.net/problem/8958) | 
+[8437 - Julka](https://www.acmicpc.net/problem/8437) | 
+[8958 - Score](https://www.acmicpc.net/problem/8958) | 
 [9498 - 시험 성적](https://www.acmicpc.net/problem/9498) | 
 [10039 - 평균 점수](https://www.acmicpc.net/problem/10039) | 
 [10171 - Cats](https://www.acmicpc.net/problem/10171) | 
