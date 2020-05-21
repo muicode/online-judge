@@ -47,23 +47,39 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [8437 - Julka](https://www.acmicpc.net/problem/8437) | 
 [8958 - Score](https://www.acmicpc.net/problem/8958) | 
 [9498 - 시험 성적](https://www.acmicpc.net/problem/9498) | 
+[9653 - Star Wars Logo](https://www.acmicpc.net/problem/9653) |
+[9654 - Naboo Fleet Data](https://www.acmicpc.net/problem/9654) |
 [10039 - 평균 점수](https://www.acmicpc.net/problem/10039) | 
+[10170 - NFC West vs. North](https://www.acmicpc.net/problem/10170) | 
 [10171 - Cats](https://www.acmicpc.net/problem/10171) | 
 [10172 - Dogs](https://www.acmicpc.net/problem/10172) | 
 [10430 - 나머지](https://www.acmicpc.net/problem/10430) | 
+[10699 - 오늘 날짜](https://www.acmicpc.net/problem/10699) | 
 [10718 - We love kriii](https://www.acmicpc.net/problem/10718) | 
+[10757 - Big A + B](https://www.acmicpc.net/problem/10757) | 
 [10817 - 세수](https://www.acmicpc.net/problem/10817) | 
 [10818 - 최소, 최대](https://www.acmicpc.net/problem/10818) | 
 [10869 - 사칙연산](https://www.acmicpc.net/problem/10869) | 
 [10871 - X보다 작은 수](https://www.acmicpc.net/problem/10871) | 
+[10926 - ??!](https://www.acmicpc.net/problem/10926) | 
 [10950 - A + B - 3](https://www.acmicpc.net/problem/10950) | 
 [10951 - A + B - 4](https://www.acmicpc.net/problem/10951) | 
 [10952 - A + B - 5](https://www.acmicpc.net/problem/10952) | 
 [10998 - A * B](https://www.acmicpc.net/problem/10998) | 
 [11021 - A + B - 7](https://www.acmicpc.net/problem/11021) | 
 [11022 - A + B - 8](https://www.acmicpc.net/problem/11022) | 
+[11283 - 한글 2](https://www.acmicpc.net/problem/11283) | 
+[11382 - 꼬마 정민](https://www.acmicpc.net/problem/11382) | 
+[11654 - Ascii](https://www.acmicpc.net/problem/11654) |
+[11942 - 고려대학교](https://www.acmicpc.net/problem/11942) |
 [12605 - Reverse Words (Small)](https://www.acmicpc.net/problem/12605) |
+[13277 - Big A x B](https://www.acmicpc.net/problem/13277) | 
+[14645 - Bewhy](https://www.acmicpc.net/problem/14645) |
+[14652 - 나는 행복합니다~](https://www.acmicpc.net/problem/14652) |
 [14681 - Quadrant Selection](https://www.acmicpc.net/problem/14681) | 
+[14918 - Bewhy](https://www.acmicpc.net/problem/14918) |
+[14928 - BIG](https://www.acmicpc.net/problem/14928) |
+[15439 - Vera and Outfit](https://www.acmicpc.net/problem/15439) | 
 [15552 - 빠른 A + B](https://www.acmicpc.net/problem/15552) | 
 [17608 - 막대기](https://www.acmicpc.net/problem/17608) |
 
