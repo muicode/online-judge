@@ -18,7 +18,6 @@ using namespace std;
 #define vpi vector<pii>
 #define vpll vector<pll>
 
-#define Size(c) (int)(c).size()
 #define INT(...) int __VA_ARGS__;IN(__VA_ARGS__)
 #define LL(...) ll __VA_ARGS__;IN(__VA_ARGS__)
 #define ULL(...) ull __VA_ARGS__;IN(__VA_ARGS__)
