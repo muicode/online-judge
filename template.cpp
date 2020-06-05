@@ -49,6 +49,9 @@ template<class T> void scan(T& a){ cin >> a; }
 void IN(){}
 template <class Head, class... Tail> void IN(Head& head, Tail&... tail){ scan(head); IN(tail...); }
 
+int in() {int x;cin>>x;return x;}
+ll llin() {unsigned long long x;cin>>x;return x;}
+
 #define ios cin.tie(NULL), ios_base::sync_with_stdio(false)
 #define cfs(n) cout<<fixed<<setprecision((n))
 #define endl '\n'
@@ -64,7 +67,6 @@ template<class T> inline bool chmin(T& a,T b){if(a>b){a=b;return 1;}return 0;}
 
 int main(){
   ios; cfs(15);
-
 
   ret;
 }
