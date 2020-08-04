@@ -14,6 +14,7 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [1330 - 두 수 비교하기](https://www.acmicpc.net/problem/1330) | 
 [1546 - 평균](https://www.acmicpc.net/problem/1546) | 
 [1550 - base 16](https://www.acmicpc.net/problem/1550) |
+[2167 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
 [2338 - 긴자리 계산](https://www.acmicpc.net/problem/2338) |
 [2438 - 별 찍기 - 1](https://www.acmicpc.net/problem/2438) | 
 [2439 - 별 찍기 - 2](https://www.acmicpc.net/problem/2439) | 
