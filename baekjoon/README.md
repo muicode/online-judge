@@ -91,3 +91,5 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [10773 - Zero That Out](https://www.acmicpc.net/problem/10773) |
 [10799 - 쇠막대기](https://www.acmicpc.net/problem/10799) |
 [10828 - Stack](https://www.acmicpc.net/problem/10828) |
+[11656 - 접미사 배열](https://www.acmicpc.net/problem/11656) |
+
