@@ -68,11 +68,15 @@ template<class T> inline bool chmin(T& a,T b){if(a>b){a=b;return 1;}return 0;}
 
 int main(){
   ios; cfs(15);
+  /*
   int cnt=0;
   INT(l,r,d);
   rep2(i,l,r+1) {
     if(i%d==0) ++cnt;
   }
   cout<<cnt<<endl;
+  */
+  INT(l,r,d);
+  cout << (int)((float)r/d - (l-1.0)/d) << endl;
   ret;
 }
