@@ -29,6 +29,7 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [2739 - 구구단](https://www.acmicpc.net/problem/2739) | 
 [2741 - N 찍기](https://www.acmicpc.net/problem/2741) | 
 [2742 - 기찍 N](https://www.acmicpc.net/problem/2742) | 
+[2750 - 수 정렬하기](https://www.acmicpc.net/problem/2750) | 
 [2753 - 윤년](https://www.acmicpc.net/problem/2753) | 
 [2845 - 파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) | 
 [2884 - SPA5ANAC](https://www.acmicpc.net/problem/2884) | 
