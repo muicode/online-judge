@@ -68,6 +68,7 @@ Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby
 [10950 - A + B - 3](https://www.acmicpc.net/problem/10950) | 
 [10951 - A + B - 4](https://www.acmicpc.net/problem/10951) | 
 [10952 - A + B - 5](https://www.acmicpc.net/problem/10952) | 
+[10989 - 수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 
 [10998 - A * B](https://www.acmicpc.net/problem/10998) | 
 [11021 - A + B - 7](https://www.acmicpc.net/problem/11021) | 
 [11022 - A + B - 8](https://www.acmicpc.net/problem/11022) | 
