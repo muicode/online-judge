@@ -21,6 +21,7 @@ My solutions to LeetCode problems.
 | [Linked List Cycle][141] | Easy    | Linked List, Two Pointers | [Ruby](./easy/linked-list-cycle.rb) ||
 | [Intersection of Two Linked Lists][160] | Easy    | Linked List | [Ruby](./easy/intersection-of-two-linked-lists.rb) ||
 | [Reverse Linked List][206] | Easy    | Linked List | [Ruby](./easy/reverse-linked-list.rb) ||
+| [Invert Binary Tree][226] | Easy    | Tree | [cpp](./easy/invert-binary-tree.cpp) ||
 | [Delete Node in a Linked List][237] | Easy    | Linked List | [Ruby](./easy/delete-node-in-a-linked-list.rb) ||
 | [Search in a Binary Search Tree][700] | Easy    | Tree | [Ruby](./easy/search-in-a-binary-search-tree.rb), [C++](./easy/search-in-a-binary-search-tree.cpp) ||
 | [Middle of the Linked List][876] | Easy    | Linked List | [Ruby](./easy/middle-of-the-linked-list.rb) ||
