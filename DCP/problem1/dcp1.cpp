@@ -43,7 +43,7 @@ bool twopass(vector<int> nums, int target)
   // O(n)
   for (int i=0; i<SIZE; ++i)
   {
-    // amortized O(1)
+    // average O(1)
     auto search = umap.find(target - nums[i]);
     if (search != umap.end() && i != search->second) 
       return true;
@@ -60,7 +60,7 @@ bool onepass(vector<int> nums, int target)
   // O(n)
   for (int i=0; i<SIZE; ++i)
   {
-    // amortized O(1)
+    // average O(1)
     auto search = umap.find(target - nums[i]);
     if (search != umap.end())
       return true;
