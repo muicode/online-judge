@@ -6,9 +6,9 @@ My solutions to daily coding problems.
 
 |Problem|From|Title|Solution|Explanation|
 |:-:|---|---|:-:|:-:|
-| [#1](./problem1) | Google | a + b = k? | [Ruby](./problem1/dcp1.rb) | [Read][DCP1] |
+| [#1](./problem1) | Google | a + b = k? | [C++](./problem1/dcp1.cpp),  [Ruby](./problem1/dcp1.rb) | [Read][DCP1] |
+| [#2](./problem2) | Uber | Array Transformation | [C++](./problem2/dcp2.cpp), [Ruby](./problem2/dcp2.rb) | [Read][DCP2]
 <!--
-| [#2](./problem2) | Uber | Array Transformation | [Ruby](./problem2/dcp2.rb) | [Read](https://www.jioneeu.com/en-dcp-2) |
 | [#3](./problem3) | Google | De/Serialization | [Ruby](./problem3/dcp3.rb) | [Read](https://www.jioneeu.com/en-dcp-3) |
 | [#4](./problem4) | Stripe | First Missing Positive Number | [Ruby](./problem4/dcp4.rb) | [Read](https://www.jioneeu.com/en-dcp-4) |
 | [#5](./problem5) | Jane Street | car and cdr | [Ruby](./problem5/dcp5.rb) | [Read](https://www.jioneeu.com/en-dcp-5) |
@@ -21,3 +21,4 @@ My solutions to daily coding problems.
 -->
 
 [DCP1]: https://www.jioneeu.com/#/DCP/eng-dcp-1/
+[DCP2]: https://www.jioneeu.com/#/DCP/eng-dcp-2/
