@@ -1,4 +1,4 @@
-# Daily Coding Problem 1 
+# Daily Coding Problem 2
 
 This question was recently asked by Uber.
 
