@@ -8,4 +8,4 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[Explanation](https://www.jioneeu.com/en-dcp-2)
+[Explanation](https://www.jioneeu.com/#/DCP/eng-dcp-2/)
