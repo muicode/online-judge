@@ -1,4 +1,4 @@
-# Runtime: 172 ms, faster than 40.44%
+# Runtime: 168 ms, faster than 50.82%
 # Memory Usage: 214.5 MB, less than 73.77%
 #
 # Definition for a binary tree node.
@@ -18,9 +18,9 @@ def range_sum_bst(root, low, high)
   return 0 if root == nil
   sum = 0
 
-  if (root.val >= low and root.val <= high)
-    sum = root.val
-  end
+  sum = root.val if (root.val >= low and root.val <= high)
+  sum += range_sum_bst(root.left, low, high) if root.val > low    
+  sum += range_sum_bst(root.right, low, high) if root.val < high
 
-  return sum + range_sum_bst(root.left, low, high) + range_sum_bst(root.right, low, high)
+  sum
 end
