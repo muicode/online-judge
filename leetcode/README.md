@@ -22,6 +22,7 @@ My solutions to LeetCode problems.
 | [Shuffle String][1528] | Easy    | Sort | [Ruby](./easy/1528/1528.rb), [C++](./easy/1528/1528.cpp), [JS](./easy/1528/1528.js) | [:pencil2:][blog-1528] |
 | [Design Parking System][1603] | Easy    | Design | [Ruby](./easy/1603/1603.rb), [C++](./easy/1603/1603.cpp), [JS](./easy/1603/1603.js) | [:pencil2:][blog-1603] |
 | [Maximum Nesting Depth of the Parentheses][1614] | Easy    | Design | [Ruby](./easy/1614/1614.rb), [C++](./easy/1614/1614.cpp), [JS](./easy/1614/1614.js) | [:pencil2:][blog-1614] |
+| [Check If Two String Arrays are Equivalent][1662] | Easy    | Design | [Ruby](./easy/1662/1662.rb), [C++](./easy/1662/1662.cpp), [JS](./easy/1662/1662.js) | [:pencil2:][blog-1662] |
 
 [771]: https://leetcode.com/problems/jewels-and-stones/
 [938]: https://leetcode.com/problems/range-sum-of-bst/
@@ -39,6 +40,7 @@ My solutions to LeetCode problems.
 [1528]: https://leetcode.com/problems/shuffle-string/
 [1603]: https://leetcode.com/problems/design-parking-system/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+[1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
 [blog-771]: https://www.jioneeu.com/#/PS/eng-leetcode-771
 [blog-938]: https://www.jioneeu.com/#/PS/eng-leetcode-938
@@ -56,3 +58,5 @@ My solutions to LeetCode problems.
 [blog-1528]: https://www.jioneeu.com/#/PS/eng-leetcode-1528
 [blog-1603]: https://www.jioneeu.com/#/PS/eng-leetcode-1603
 [blog-1614]: https://www.jioneeu.com/#/PS/eng-leetcode-1614
+[blog-1662]: https://www.jioneeu.com/#/PS/eng-leetcode-1662
+
