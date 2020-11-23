@@ -9,6 +9,7 @@ My solutions to LeetCode problems.
 | [Jewels and Stones][771] | Easy    | Hash Table| [Ruby](./easy/771/771.rb), [C++](./easy/771/771.cpp), [JS](./easy/771/771.js) | [:pencil2:][blog-771] |
 | [Range Sum of BST][938] | Easy    | Tree, DFS, Recursion| [Ruby](./easy/938/938.rb), [C++](./easy/938/938.cpp), [JS](./easy/938/938.js) | [:pencil2:][blog-938] |
 | [Defanging an IP Address][1108] | Easy    | String | [Ruby](./easy/1108/1108.rb), [C++](./easy/1108/1108.cpp), [JS](./easy/1108/1108.js) | [:pencil2:][blog-1108] |
+| [Reformat Department Table][1179] | Easy    | String | [Ruby](./easy/1179/1179.rb), [C++](./easy/1179/1179.cpp), [JS](./easy/1179/1179.js) | [:pencil2:][blog-1179] |
 | [Subtract the Product and Sum of Digits of an Integer][1281] | Easy    | Math | [Ruby](./easy/1281/1281.rb), [C++](./easy/1281/1281.cpp), [JS](./easy/1281/1281.js) | [:pencil2:][blog-1281] |
 | [Convert Binary Number in a Linked List to Integer][1290] | Easy    | Linked List, Bit Manipulation    | [Ruby](./easy/1290/1290.rb), [C++](./easy/1290/1290.cpp), [JS](./easy/1290/1290.js) | [:pencil2:][blog-1290] |
 | [Decompress Run-Length Encoded List][1313] | Easy    | Array | [Ruby](./easy/1313/1313.rb), [C++](./easy/1313/1313.cpp), [JS](./easy/1313/1313.js) | [:pencil2:][blog-1313] |
@@ -28,6 +29,7 @@ My solutions to LeetCode problems.
 [771]: https://leetcode.com/problems/jewels-and-stones/
 [938]: https://leetcode.com/problems/range-sum-of-bst/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1179]: https://leetcode.com/problems/reformat-department-table/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
@@ -47,6 +49,7 @@ My solutions to LeetCode problems.
 [blog-771]: https://www.jioneeu.com/#/PS/eng-leetcode-771
 [blog-938]: https://www.jioneeu.com/#/PS/eng-leetcode-938
 [blog-1108]: https://www.jioneeu.com/#/PS/eng-leetcode-1108
+[blog-1179]: https://www.jioneeu.com/#/PS/eng-leetcode-1179
 [blog-1281]: https://www.jioneeu.com/#/PS/eng-leetcode-1281
 [blog-1290]: https://www.jioneeu.com/#/PS/eng-leetcode-1290
 [blog-1313]: https://www.jioneeu.com/#/PS/eng-leetcode-1313
