@@ -12,6 +12,7 @@ My solutions to LeetCode problems.
 | [Reformat Department Table][1179] | Easy    | String | [Ruby](./easy/1179/1179.rb), [C++](./easy/1179/1179.cpp), [JS](./easy/1179/1179.js) | [:pencil2:][blog-1179] |
 | [Subtract the Product and Sum of Digits of an Integer][1281] | Easy    | Math | [Ruby](./easy/1281/1281.rb), [C++](./easy/1281/1281.cpp), [JS](./easy/1281/1281.js) | [:pencil2:][blog-1281] |
 | [Convert Binary Number in a Linked List to Integer][1290] | Easy    | Linked List, Bit Manipulation    | [Ruby](./easy/1290/1290.rb), [C++](./easy/1290/1290.cpp), [JS](./easy/1290/1290.js) | [:pencil2:][blog-1290] |
+| [Find Numbers with Even Number of Digits][1295] | Easy    | Linked List, Bit Manipulation    | [Ruby](./easy/1295/1295.rb), [C++](./easy/1295/1295.cpp), [JS](./easy/1295/1295.js) | [:pencil2:][blog-1295] |
 | [Decompress Run-Length Encoded List][1313] | Easy    | Array | [Ruby](./easy/1313/1313.rb), [C++](./easy/1313/1313.cpp), [JS](./easy/1313/1313.js) | [:pencil2:][blog-1313] |
 | [Number of Steps to Reduce a Number to Zero][1342] | Easy    | Bit Manipulation | [Ruby](./easy/1342/1342.rb), [C++](./easy/1342/1342.cpp), [JS](./easy/1342/1342.js) | [:pencil2:][blog-1342] |
 | [How Many Numbers Are Smaller Than the Current Number][1365] | Easy    | Array, Hash Table| [Ruby](./easy/1365/1365.rb), [C++](./easy/1365/1365.cpp), [JS](./easy/1365/1365.js) | [:pencil2:][blog-1365] |
@@ -32,6 +33,7 @@ My solutions to LeetCode problems.
 [1179]: https://leetcode.com/problems/reformat-department-table/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+[1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
@@ -52,6 +54,7 @@ My solutions to LeetCode problems.
 [blog-1179]: https://www.jioneeu.com/#/PS/eng-leetcode-1179
 [blog-1281]: https://www.jioneeu.com/#/PS/eng-leetcode-1281
 [blog-1290]: https://www.jioneeu.com/#/PS/eng-leetcode-1290
+[blog-1295]: https://www.jioneeu.com/#/PS/eng-leetcode-1295
 [blog-1313]: https://www.jioneeu.com/#/PS/eng-leetcode-1313
 [blog-1342]: https://www.jioneeu.com/#/PS/eng-leetcode-1342
 [blog-1365]: https://www.jioneeu.com/#/PS/eng-leetcode-1365
