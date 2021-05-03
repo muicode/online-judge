@@ -1,0 +1,12 @@
+#include <bits/stdc++.h> 
+using namespace std;
+int main(void) {
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+
+  int a;
+  cin >> a;
+  for(int i=a; i>=1; --i) printf("%d\n", i);
+
+  return 0;
+}
