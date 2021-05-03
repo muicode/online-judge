@@ -9,7 +9,7 @@ int main(void) {
     b += (x/60 + 1) * 15;
   }
 
-  if(a!=0 && b != 0 && a==b) printf("Y M %d\n", a);
+  if(a==b) printf("Y M %d\n", a);
   else if (a<b) printf("Y %d\n", a);
   else printf("M %d\n", b);
   
