@@ -10,7 +10,7 @@
 6. [정렬 (Sorting)](#sort)
 7. [탐색 (Searches)](#search)
  
- > 이 저장소의 주인이 직접 문제를 풀고 주제별/패러다임별 분류를 합니다. 잘못된 부분은 재분류 한 다음 PR 해주시길 부탁드립니다. 
+ > 직접 문제를 풀고 주제별/패러다임별 분류를 하고 있습니다. 잘못된 부분이 있다면 재분류 한 다음 PR 해주시길 부탁드립니다. 
  
 <br>
 
@@ -39,6 +39,7 @@
 - `1` [하샤드 수](https://github.com/j2ieu/cp/blob/programmers/level1/12947.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12947)
 - `1` [x만큼 간격이 있는 n개의 숫자](https://github.com/j2ieu/cp/blob/programmers/level1/12954.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12954)
 - `1` [직사각형 별찍기](https://github.com/j2ieu/cp/blob/programmers/level1/12969.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12969)
+- `1` [3진법 뒤집기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68935.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68935)
 - `1` [음양 더하기 (월간 코드 챌린지 시즌2)](https://github.com/j2ieu/cp/blob/programmers/level1/76501.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/76501)
 
 <br>
@@ -46,6 +47,7 @@
 <a id="bruteforce"></a>
 ## 브루트포스 (Bruteforce)
 가능한 모든 경우를 탐색한 뒤 최적을 찾아내는 방법.
+- `1` [두 개 뽑아서 더하기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68644.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68644)
 - `1` [모의고사](https://github.com/j2ieu/cp/blob/programmers/level1/42840.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42840)
 
 <br>
@@ -80,6 +82,7 @@
 - `1` [행렬의 덧셈](https://github.com/j2ieu/cp/blob/programmers/level1/12950.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12950)
 - `1` [소수 만들기 (Summer/Winter Coding(~2018))](https://github.com/j2ieu/cp/blob/programmers/level1/12977.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12977)
 - `1` [키패드 누르기 (2020 카카오 인턴십)](https://github.com/j2ieu/cp/blob/programmers/level1/67256.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/67256)
+- `1` [약수의 개수와 덧셈 (월간 코드 챌린지 시즌2)](https://github.com/j2ieu/cp/blob/programmers/level1/77884.cpp) [🔗](https://programmers.co.kr/learn/courses/30/lessons/77884)
 
 <br>
 
