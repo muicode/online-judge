@@ -2,13 +2,15 @@
 
 이 저장소는 [programmers](https://programmers.co.kr/learn/challenges) 코딩테스트 연습 문제들의 C++ 기반 풀이 코드를 담고 있습니다.  
 
-1. [구현 & 시뮬레이션 (Implementation & Simulation)](#impsim)
-2. [브루트포스 (Bruteforce)](#bruteforce)
-3. [탐욕 알고리즘 (Greedy)](#greedy)
-4. [문자열 (String Manipulation)](#strmanip)
-5. [수학 (Math)](#math)
-6. [정렬 (Sorting)](#sort)
-7. [탐색 (Searches)](#search)
+- [구현 & 시뮬레이션 (Implementation & Simulation)](#impsim)
+- [문자열 (String Manipulation)](#strmanip)
+- [브루트포스 (Bruteforce)](#bruteforce)
+- [수학 (Math)](#math)
+- [스택 (Stack)](#stack)
+- [정렬 (Sorting)](#sort)
+- [탐색 (Searches)](#search)
+- [탐욕 알고리즘 (Greedy)](#greedy)
+- [해시 (Hash)](#hash)
  
  > 직접 문제를 풀고 주제별/패러다임별 분류를 하고 있습니다. 잘못된 부분이 있다면 재분류 한 다음 PR 해주시길 부탁드립니다. 
  
@@ -42,21 +44,7 @@
 - `1` [직사각형 별찍기](https://github.com/j2ieu/cp/blob/programmers/level1/12969.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12969)
 - `1` [3진법 뒤집기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68935.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68935)
 - `1` [음양 더하기 (월간 코드 챌린지 시즌2)](https://github.com/j2ieu/cp/blob/programmers/level1/76501.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/76501)
-
-<br>
-
-<a id="bruteforce"></a>
-## 브루트포스 (Bruteforce)
-가능한 모든 경우를 탐색한 뒤 최적을 찾아내는 방법.
-- `1` [두 개 뽑아서 더하기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68644.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68644)
-- `1` [모의고사](https://github.com/j2ieu/cp/blob/programmers/level1/42840.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42840)
-
-<br>
-
-<a id="greedy"></a>
-## 탐욕 알고리즘 (Greedy)
-현 상황에서의 최적해를 선택해 나가는 방식으로 진행하여 최종적인 해답에 도달하는 방법.
-- `1` [체육복](https://github.com/j2ieu/cp/blob/programmers/level1/42862.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42862)
+- `1` [로또의 최고 순위와 최저 순위 (2021 Dev-Matching: 웹 백엔드 개발자](https://github.com/j2ieu/cp/blob/programmers/level1/77484.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
 <br>
 
@@ -72,7 +60,15 @@
 - `1` [신규 아이디 추천 (2021 KAKAO BLIND RECRUITMENT)](https://github.com/j2ieu/cp/blob/programmers/level1/72410.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/72410)
   
 <br>
- 
+
+<a id="bruteforce"></a>
+## 브루트포스 (Bruteforce)
+가능한 모든 경우를 탐색한 뒤 최적을 찾아내는 방법.
+- `1` [두 개 뽑아서 더하기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68644.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68644)
+- `1` [모의고사](https://github.com/j2ieu/cp/blob/programmers/level1/42840.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42840)
+
+<br>
+
 <a id="math"></a>
 ## 수학 (Math)
 - `1` [나누어 떨어지는 숫자 배열](https://github.com/j2ieu/cp/blob/programmers/level1/12910.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12910)
@@ -87,6 +83,12 @@
 
 <br>
 
+<a id="stack"></a>
+## 스택 (Stack) 
+- `1` [크레인 인형뽑기 게임(2019 카카오 개발자 겨울 인턴십)](https://github.com/j2ieu/cp/blob/programmers/level1/64061.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/64061)
+
+<br>
+
 <a id="sort"></a>
 ## 정렬 (Sorting)
 - `1` [문자열 내림차순으로 배치하기](https://github.com/j2ieu/cp/blob/programmers/level1/12917.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12917)
@@ -97,3 +99,16 @@
 <a id="search"></a>
 ## 탐색 (Searches)
 - `1` [서울에서 김서방 찾기](https://github.com/j2ieu/cp/blob/programmers/level1/12919.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12919)
+
+<br>
+
+<a id="greedy"></a>
+## 탐욕 알고리즘 (Greedy)
+현 상황에서의 최적해를 선택해 나가는 방식으로 진행하여 최종적인 해답에 도달하는 방법.
+- `1` [체육복](https://github.com/j2ieu/cp/blob/programmers/level1/42862.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42862)
+
+<br>
+ 
+<a id="hash"></a>
+## 해시 (Hash)
+- `1` [완주하지 못한 선수](https://github.com/j2ieu/cp/blob/programmers/level1/42576.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42576)
