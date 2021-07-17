@@ -1,18 +1,18 @@
-# 프로그래머스 문제 풀이
+## 프로그래머스 문제 풀이
 
 이 저장소는 [programmers](https://programmers.co.kr/learn/challenges) 코딩테스트 연습 문제들의 C++ 기반 풀이 코드를 담고 있습니다.  
 
 - [프로그래머스 문제 풀이](#프로그래머스-문제-풀이)
-  - [구현 & 시뮬레이션 (Implementation & Simulation)](#구현--시뮬레이션-implementation--simulation)
-  - [문자열 (String Manipulation)](#문자열-string-manipulation)
-  - [비트마스크 (Bit mask)](#비트마스크-bit-mask)
-  - [브루트포스 (Bruteforce)](#브루트포스-bruteforce)
-  - [수학 (Math)](#수학-math)
-  - [스택 (Stack)](#스택-stack)
-  - [정렬 (Sorting)](#정렬-sorting)
-  - [탐색 (Searches)](#탐색-searches)
-  - [탐욕 알고리즘 (Greedy)](#탐욕-알고리즘-greedy)
-  - [해시 (Hash)](#해시-hash)
+- [구현 & 시뮬레이션 (Implementation & Simulation)](#구현--시뮬레이션-implementation--simulation)
+- [문자열 (String Manipulation)](#문자열-string-manipulation)
+- [비트마스크 (Bit mask)](#비트마스크-bit-mask)
+- [브루트포스 (Bruteforce)](#브루트포스-bruteforce)
+- [수학 (Math)](#수학-math)
+- [스택 (Stack)](#스택-stack)
+- [정렬 (Sorting)](#정렬-sorting)
+- [탐색 (Searches)](#탐색-searches)
+- [탐욕 알고리즘 (Greedy)](#탐욕-알고리즘-greedy)
+- [해시 (Hash)](#해시-hash)
  
  > 직접 문제를 풀고 주제별/패러다임별 분류를 하고 있습니다. 잘못된 부분이 있다면 재분류 한 다음 PR 해주시길 부탁드립니다. 
  
